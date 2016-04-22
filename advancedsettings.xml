@@ -1,0 +1,7 @@
+<advancedsettings>
+     <network>
+        <buffermode>0</buffermode>
+        <cachemembuffersize>83886080</cachemembuffersize>
+        <readbufferfactor>4</readbufferfactor>
+    </network>
+</advancedsettings>
